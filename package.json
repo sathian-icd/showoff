@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sathian-icd/showoff/issues"
   },
-  "homepage": "https://github.com/sathian-icd/showoff#readme"
+  "homepage": "https://github.com/sathian-icd/showoff#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "firebase": "^9.8.1"
+  }
 }
